@@ -1,4 +1,3 @@
-@ -0,0 +1,31 @@
 ## Para instalar <Nombre_del_proyecto>, sigue estos pasos:
 
 Clonar el repositorio: Utiliza el comando git clone seguido de la URL del repositorio para copiar el código fuente de la aplicación a tu máquina local.
